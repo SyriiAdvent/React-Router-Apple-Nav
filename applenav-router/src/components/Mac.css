@@ -1,0 +1,10 @@
+.tLink {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14.5px;
+  font-weight: 300;
+  color: Black;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+}
